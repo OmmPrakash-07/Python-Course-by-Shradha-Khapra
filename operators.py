@@ -32,3 +32,6 @@ num = 20
 num -= 10
 #num = num - 10 #20-10 => 10
 print("num :", num)
+
+#Logical Operators
+

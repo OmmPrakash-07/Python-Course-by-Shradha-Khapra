@@ -24,5 +24,11 @@ print (a < b) #False
 
 #assignment opeartors
 num = 20
-num = num + 10 #20+10 => 20
+num += 10
+#num = num + 10 #20+10 => 30
+print("num :", num)
+
+num = 20
+num -= 10
+#num = num - 10 #20-10 => 10
 print("num :", num)

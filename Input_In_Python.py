@@ -8,7 +8,7 @@ print(type(val), val) # Convert to string
 
 
 name = input("Enter Name: ")
-age = input("Enter Age: ")
+age = int(input("Enter Age: "))
 mark = input("Enter Mark: ")
 
 print("Welcome", name)

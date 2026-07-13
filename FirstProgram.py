@@ -32,3 +32,12 @@ name2 = 'Omm'
 name3 = '''Omm'''
 
 print(name1, name2, name3)
+
+
+age = 21
+old = False
+a = None
+
+print(type(age))
+print(type(old))
+print(type(a))

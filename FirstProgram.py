@@ -41,3 +41,15 @@ a = None
 print(type(age))
 print(type(old))
 print(type(a))
+
+#Sum
+a = 2 
+b = 5
+sum = a+b
+print(sum)
+
+#Diff
+a = 2 
+b = 5
+sum = a-b
+print(sum)

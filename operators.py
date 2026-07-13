@@ -8,3 +8,12 @@ print(a * b)
 print(a / b)
 print(a % b) #remainder
 print(a ** b) #a^b
+
+
+
+#Relational / Comparison Operators 
+a = 50
+b = 20
+
+print(a == b)
+print (a != b)

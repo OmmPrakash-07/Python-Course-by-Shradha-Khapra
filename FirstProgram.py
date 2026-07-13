@@ -21,3 +21,7 @@ print("my name is :", name)
 print("my age is :", age)
 
 print (age2)
+
+print(type(name))
+print(type(age))
+print(type(price))

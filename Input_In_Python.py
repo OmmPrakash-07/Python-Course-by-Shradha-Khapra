@@ -14,3 +14,9 @@ mark = input("Enter Mark: ")
 print("Welcome", name)
 print("Age", age)
 print("Mark", mark)
+
+
+first = int(input("Enter First: "))
+second = int(input("Enter Second: "))
+
+print("sum = ", first + second)

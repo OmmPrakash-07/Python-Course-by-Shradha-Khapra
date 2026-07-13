@@ -7,5 +7,13 @@ print(20)
 print(20+23)
 
 name ="Omm"
-age = 21
-price =25.99
+age = 21  #int
+price =25.99  #flot
+
+print("name")
+print(name)
+print(age)
+print(price)
+
+print("my name is :", name)
+print("my age is :", age)

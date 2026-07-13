@@ -21,3 +21,8 @@ print (a >= b) #True
 print (a > b) #True
 print (a <= b) #False
 print (a < b) #False
+
+#assignment opeartors
+num = 20
+num = num + 10 #20+10 => 20
+print("num :", num)

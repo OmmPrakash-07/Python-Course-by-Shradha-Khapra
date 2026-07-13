@@ -15,5 +15,9 @@ print(name)
 print(age)
 print(price)
 
+age2 = age
+
 print("my name is :", name)
 print("my age is :", age)
+
+print (age2)

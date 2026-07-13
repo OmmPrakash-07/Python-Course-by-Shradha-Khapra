@@ -20,3 +20,8 @@ first = int(input("Enter First: "))
 second = int(input("Enter Second: "))
 
 print("sum = ", first + second)
+
+
+
+side = float(input("Enter Squre Side: "))
+print("area", side * side)

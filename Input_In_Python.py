@@ -25,3 +25,9 @@ print("sum = ", first + second)
 
 side = float(input("Enter Squre Side: "))
 print("area", side * side)
+
+
+a = float(input("Enter First Number"))
+b = float(input("Enter Second Number"))
+
+print("avg", (a+b)/2)

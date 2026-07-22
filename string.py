@@ -19,3 +19,6 @@ print(ch)
 
 str7 = "Omm Prakash"
 print(str7[0:4])
+
+str8 = "Apple"
+print(str8[-5:-2])

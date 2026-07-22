@@ -16,3 +16,6 @@ print(len(str5 ))
 str6 = "Omm_Prakash"
 ch = str6[5]
 print(ch)
+
+str7 = "Omm Prakash"
+print(str7[1:5])

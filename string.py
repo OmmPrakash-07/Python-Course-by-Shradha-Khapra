@@ -12,3 +12,7 @@ str5 = "Priya"
 print(str4 + " " + str5)
 
 print(len(str5 ))
+
+str6 = "Omm_Prakash"
+ch = str6[5]
+print(ch)

@@ -10,3 +10,5 @@ print(str3)
 str4 = "Omm"
 str5 = "Priya"
 print(str4+str5)
+
+print(len(str5 ))

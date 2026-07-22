@@ -22,3 +22,11 @@ print(str7[0:4])
 
 str8 = "Apple"
 print(str8[-5:-2])
+
+str9 = "i am Omm Prakash"
+print(str9.endswith("ash"))
+print(str9.capitalize())
+
+print(str9.replace("Omm", "Priya"))
+
+print(str9.find("P"))

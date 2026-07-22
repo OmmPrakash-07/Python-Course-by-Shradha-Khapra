@@ -30,3 +30,5 @@ print(str9.capitalize())
 print(str9.replace("Omm", "Priya"))
 
 print(str9.find("P"))
+
+print(str9.count("m"))

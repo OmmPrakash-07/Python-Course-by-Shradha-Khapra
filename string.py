@@ -18,4 +18,4 @@ ch = str6[5]
 print(ch)
 
 str7 = "Omm Prakash"
-print(str7[1:5])
+print(str7[0:4])

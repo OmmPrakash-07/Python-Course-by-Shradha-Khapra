@@ -6,3 +6,7 @@ print(str2)
 
 str3 = "This is Omm. \tMy gf name is Priya"
 print(str3)
+
+str4 = "Omm"
+str5 = "Priya"
+print(str4+str5)

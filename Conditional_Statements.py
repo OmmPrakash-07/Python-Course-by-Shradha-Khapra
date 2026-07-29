@@ -28,3 +28,15 @@ if (age>=18):
     print("can vote")
 else:
     print("can't vote")
+
+
+mark = int(input("enter student mark "))
+if (mark >= 90):
+    grade = "A"
+elif (mark >= 80 and mark < 90):
+    grade = "B"
+elif (mark >= 70 and mark < 80):
+    grade = "C"
+else :
+    grade = "D"
+print("grade of the student ->", grade)

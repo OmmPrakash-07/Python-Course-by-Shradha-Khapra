@@ -40,3 +40,15 @@ elif (mark >= 70 and mark < 80):
 else :
     grade = "D"
 print("grade of the student ->", grade)
+
+
+#nesting
+agee =90
+
+if(agee >= 18):
+    if(agee >= 80):
+        print("cannot drive")
+    else:
+        print("can drive")
+else:
+    print("cannot drive")

@@ -12,28 +12,6 @@ This repository is created to:
 - Track my learning journey.
 - Build a strong foundation in Python programming.
 
-📂 Repository Structure
-
-Python-Course-by-Shradha-Khapra/
-│
-├── 01_Basics/
-├── 02_Operators/
-├── 03_Conditional_Statements/
-├── 04_Loops/
-├── 05_Functions/
-├── 06_Strings/
-├── 07_Lists/
-├── 08_Tuples/
-├── 09_Dictionaries/
-├── 10_Sets/
-├── 11_File_Handling/
-├── 12_OOP/
-├── 13_Exception_Handling/
-├── Projects/
-└── README.md
-
-«The folder names may change as I progress through the course.»
-
 🚀 Topics Covered
 
 - Python Basics

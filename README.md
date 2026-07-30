@@ -1,12 +1,15 @@
 🐍 Python-Course-by-Shradha-Khapra
+
 Welcome to the Python-Course-by-Shradha-Khapra repository! This repository contains my notes, practice programs, assignments, and projects completed while learning Python through Shradha Khapra's Python Course.
+
 📚 About
-This repository is created to:
-Learn Python from beginner to advanced concepts.
+# This repository is created to:
+# Learn Python from beginner to advanced concepts.
 Practice coding regularly.
 Store notes and assignments.
 Track my learning journey.
 Build a strong foundation in Python programming.
+
 📂 Repository Structure
 Python-Course-by-Shradha-Khapra/
 │
